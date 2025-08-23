@@ -14,3 +14,4 @@ resource "azurerm_storage_account" "storage-block" {
   account_replication_type = "GRS"
 
 }
+tabish shakil
